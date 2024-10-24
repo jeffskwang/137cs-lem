@@ -1,0 +1,17 @@
+name: 137cs-lem
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python
+  - pip
+  - snakemake
+  - matplotlib
+  - numpy
+  - gdal
+  - pandas
+  - geopandas
+  - time
+  - natsort
+  - landlab
+  - dbfread

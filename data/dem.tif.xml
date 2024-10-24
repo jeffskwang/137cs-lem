@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20210922</CreaDate><CreaTime>05242700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\arcgis\desktop10.7\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20210922" Time="052427">RasterCalculator ""clipped_test.tif" / 100." D:\137CS_LEM\data\test.tif</Process></lineage></DataProperties></Esri></metadata>
